@@ -1,5 +1,5 @@
 ## Convert Currency
- ![GitHub Logo](/images/github-logo.png)
+ ![App preview](assets/images/preview.png)
  
  Web App for currency conversion built in Next.js 
   
